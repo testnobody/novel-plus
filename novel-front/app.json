@@ -1,0 +1,9 @@
+{
+    "name": "小说精品屋-前端-heroku",
+    "description": "Deploy novel-plus-front on Heroku.",
+    "keywords": ["novel-plus"],
+    
+    "website": "https://github.com/testnobody/novel-plus/new/master/novel-front",
+    "repository": "https://github.com/testnobody/novel-plus/new/master/novel-front",
+    "stack": "container"
+}
